@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-prathameshlad.data@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prathameshlad.data@gmail.com)](mailto:prathameshlad.data@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://prathamesh1199.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓⚡ Fun fact: The amount of data created every day is estimated to be 2.5 quintillion bytes. That’s 2,500,000,000,000,000,000 bytes!💾 Imagine the vast possibilities for data science and AI to analyze and make sense of this immense ocean of information. Dive in and explore the data-driven world with me! 🌐🚀
+- ⚡ Fun fact: The amount of data created every day is estimated to be 2.5 quintillion bytes. That’s 2,500,000,000,000,000,000 bytes!💾 Imagine the vast possibilities for data science and AI to analyze and make sense of this immense ocean of information. Dive in and explore the data-driven world with me! 🌐🚀
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
